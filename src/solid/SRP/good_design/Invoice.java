@@ -1,4 +1,4 @@
-package solid.srp.good_design;
+package solid.SRP.good_design;
 
 public class Invoice {
     private double amount;

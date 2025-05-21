@@ -1,4 +1,4 @@
-package solid.ocp.good_design;
+package solid.OCP.good_design;
 
 public class CreditCardPayment implements PaymentMethod {
     @Override

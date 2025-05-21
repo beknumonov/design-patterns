@@ -1,4 +1,4 @@
-package solid.ocp.bad_design;
+package solid.OCP.bad_design;
 
 public class PaymentProcessor {
 
